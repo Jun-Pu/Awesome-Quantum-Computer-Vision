@@ -4,7 +4,7 @@
     </em>
 </p>
 
-# <p align=center>`Awesome quantum computer vision`
+# <p align=center>`Awesome quantum computer vision (Q-CV)`
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
 [![Forks](https://img.shields.io/github/forks/Jun-Pu/Awesome-quantum-computer-vision.svg?style=for-the-badge)](https://github.com/Jun-Pu/Awesome-quantum-computer-vision/network/members)

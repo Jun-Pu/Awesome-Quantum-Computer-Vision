@@ -51,7 +51,7 @@
     
 **Year** | **Publication** | **Title** | **Preprint** | **Project Page** | **Key Concepts**
 :-: | :-:| :- | :-: |  :-: |  :-: 
-**2022** | **CVPR** | [An Iterative Quantum Approach for Transformation Estimation from Point Sets](https://openaccess.thecvf.com/content/CVPR2022/papers/Meli_An_Iterative_Quantum_Approach_for_Transformation_Estimation_From_Point_Sets_CVPR_2022_paper.pdf) <br><sub> **Q-TE:** Proposing an iterative method for estimating rigid transformations from point sets using adiabatic quantum computation. </sub> | | | Transformation Estimation from Point Sets
+**2022** | **CVPR** | [An Iterative Quantum Approach for Transformation Estimation from Point Sets](https://openaccess.thecvf.com/content/CVPR2022/papers/Meli_An_Iterative_Quantum_Approach_for_Transformation_Estimation_From_Point_Sets_CVPR_2022_paper.pdf) <br><sub> **Q-TE:** Proposing an iterative method for estimating rigid transformations from point sets using adiabatic quantum computation. </sub> | | | <br><sub> **Transformation Estimation from Point Sets** </sub> 
 **2022** | **CVPR** | [Adiabatic Quantum Computing for Multi Object Tracking](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaech_Adiabatic_Quantum_Computing_for_Multi_Object_Tracking_CVPR_2022_paper.pdf) <br><sub> **AQC-MOT:** Proposing the first multi-object tracking formulation designed to be solved with adiabatic quantum computing. </sub> | [arXiv](https://arxiv.org/pdf/2202.08837.pdf)
 **2022** | **CVPR** | [A Hybrid Quantum-Classical Algorithm for Robust Fitting](https://openaccess.thecvf.com/content/CVPR2022/papers/Doan_A_Hybrid_Quantum-Classical_Algorithm_for_Robust_Fitting_CVPR_2022_paper.pdf) <br><sub> **HQC-RF:** Novel robust fitting formulation that solves a sequence of integer programs and terminates with a global solution or an error bound. </sub> | [arXiv](https://arxiv.org/pdf/2201.10110.pdf)
 **2022** | **ECCV** | [Q-FW: A Hybrid Classical-Quantum Frank-Wolfe for Quadratic Binary Optimization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830341.pdf) <br><sub> **Q-FW:** A hybrid classical-quantum framework based on the Frank-Wolfe algorithm, namely Q-FW, for solving quadratic, linearly-constrained, binary optimization problems on quantum annealers. </sub> | [arXiv](https://arxiv.org/pdf/2203.12633.pdf)
@@ -68,7 +68,7 @@
     
 **Year** | **Publication** | **Title** | **Preprint** | **Project Page** | **Key Concepts**
 :-: | :-:| :- | :-: |  :-: |  :-: 
-**2020** | **NeurIPS** | [Recurrent Quantum Neural Networks](https://proceedings.neurips.cc/paper/2020/file/0ec96be397dd6d3cf2fecb4a2d627c1c-Paper.pdf) <br><sub> **QRNN:** Constructing a quantum recurrent neural network (QRNN) with demonstrable performance on non-trivial tasks such as sequence learning and integer digit classification. </sub> | [arXiv](https://arxiv.org/pdf/2006.14619.pdf) | | Recurrent Neural Networks
+**2020** | **NeurIPS** | [Recurrent Quantum Neural Networks](https://proceedings.neurips.cc/paper/2020/file/0ec96be397dd6d3cf2fecb4a2d627c1c-Paper.pdf) <br><sub> **QRNN:** Constructing a quantum recurrent neural network (QRNN) with demonstrable performance on non-trivial tasks such as sequence learning and integer digit classification. </sub> | [arXiv](https://arxiv.org/pdf/2006.14619.pdf) | | <br><sub> **Recurrent Neural Networks** </sub>
 **2020** | **3DV** | [Adiabatic Quantum Graph Matching with Permutation Matrix Constraints](https://vcai.mpi-inf.mpg.de/projects/QGM/data/SeelbachBenkner_etal.pdf) <br><sub> **QGM:** Proposing several reformulations of quadratic assignment problems as unconstrained problems suitable for efficient execution on quantum hardware. </sub> | [arXiv](https://arxiv.org/pdf/2107.04032.pdf) | [Link](https://vcai.mpi-inf.mpg.de/projects/QGM/)
 **2020** | **ECCV** | [Quantum-soft QUBO Suppression for Accurate Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123740154.pdf) <br><sub> **QSQS:** Mapping the task of removing redundant detections into Quadratic Unconstrained Binary Optimization (QUBO) framework that consists of detection score from each bounding box and overlap ratio between pair of bounding boxes. Solve the QUBO problem using the proposed Quantum-soft QUBO Suppression (QSQS) algorithm for fast and accurate detection by exploiting quantum computing advantages. </sub> | [arXiv](https://arxiv.org/pdf/2007.13992.pdf) 
 
@@ -76,6 +76,7 @@
     
 **Year** | **Publication** | **Title** | **Preprint** | **Project Page** | **Key Concepts**
 :-: | :-:| :- | :-: |  :-: |  :-: 
+**2019** | **Nature** | [Supervised learning with quantum-enhanced feature spaces](https://drive.google.com/file/d/1FzNzPV5gf8LPKv8FN2CslNy_jszAUK34/view?usp=sharing) <br><sub> **Q-KFs:** One method, the quantum variational classifier, uses a variational quantum circuit to classify the data in a way similar to the method of conventional SVMs. The other method, a quantum kernel estimator, estimates the kernel function on the quantum computer and optimizes a classical SVM. </sub> | [arXiv](https://arxiv.org/pdf/1804.11326.pdf) | | <br><sub> **Support Vector Machines** </sub> 
 
 ### Year 2011
     

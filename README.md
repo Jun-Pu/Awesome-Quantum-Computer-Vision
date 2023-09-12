@@ -79,9 +79,9 @@
 **2019** | **Nature** | [Supervised learning with quantum-enhanced feature spaces](https://drive.google.com/file/d/1FzNzPV5gf8LPKv8FN2CslNy_jszAUK34/view?usp=sharing) <br><sub> **Q-KFs:** One method, the quantum variational classifier, uses a variational quantum circuit to classify the data in a way similar to the method of conventional SVMs. The other method, a quantum kernel estimator, estimates the kernel function on the quantum computer and optimizes a classical SVM. </sub> | [arXiv](https://arxiv.org/pdf/1804.11326.pdf) | | <br><sub> **Support Vector Machines** </sub> 
 
 ### Year 2011
-    
 **Year** | **Publication** | **Title** | **Preprint** | **Project Page** | **Key Concepts**
 :-: | :-:| :- | :-: |  :-: |  :-: 
+**2011** | **ICCVw** | [The Wave Kernel Signature: A Quantum Mechanical Approach to Shape Analysis](https://drive.google.com/file/d/1NLj5bCnaS1Nmw48n04dusi8jU_GJH8dp/view?usp=sharing) <br><sub> **WKS:** Characterizing points on non-rigid three-dimensional shapes. </sub> | | |  <br><sub> **Heat Kernel Signature** </sub> 
 
 
 ## Contact

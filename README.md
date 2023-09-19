@@ -13,8 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/Jun-Pu/)
    
 
-<p align="center">
- The list will be continually updated. Stay tuned!
+
+The paper list and the [survey paper](https://drive.google.com/file/d/1P8NG3NsRGhum6G44bDFZPqcbjL5pY7aS/view?usp=sharing) will be continually updated. Stay tuned! 
 
 < **Last updated: Aug/21/2023** >
         
